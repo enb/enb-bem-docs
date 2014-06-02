@@ -8,8 +8,7 @@ enb-bem-docs [![NPM version](https://badge.fury.io/js/enb-bem-docs.svg)](http://
 $ npm install --save-dev enb-bem-docs
 ```
 
-Для работы модуля требуется зависимость от пакета enb версии 0.12.0 или выше,<br/>
-а так же от enb-bem-sets версии 0.3.4 или выше.
+Для работы модуля требуется зависимость от пакета enb версии 0.12.0 или выше.
 
 Разработка
 ----------
