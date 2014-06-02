@@ -42,6 +42,8 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run lint",
-    "lint": "jshint . && jscs -c .jscs.js ."
+    "lint": "jshint . && jscs -c .jscs.js .",
+    "build": "cd examples/silly && enb make docs",
+    "clean": "rm -rf examples/silly/docs && rm -rf examples/silly/.enb/tmp"
   }
 }
