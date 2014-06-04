@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "enb-bem-sets": "0.3.6",
-    "vow": "0.4.3",
+    "vow": "0.4.4",
     "bem-naming": "0.0.3",
     "extend": "1.2.1",
     "marked": "0.3.2",
