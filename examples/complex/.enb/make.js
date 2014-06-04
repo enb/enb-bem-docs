@@ -1,11 +1,11 @@
 var path = require('path');
 var rootPath = path.join(__dirname, '..', '..', '..');
-var docsSets = require(rootPath);
+var docSets = require(rootPath);
 
 module.exports = function (config) {
-    var docs = docsSets.create('docs', config);
+    var docs = docSets.create('docs', config);
 
-    config.setLanguages(['en', 'ru']);
+    config.setLanguages(['en']);
 
     docs.build({
         destPath: 'docs',
