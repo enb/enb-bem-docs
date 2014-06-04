@@ -29,7 +29,8 @@
     "extend": "1.2.1",
     "marked": "0.3.2",
     "shmakowiki": "0.4.0",
-    "bem-jsd": "1.4.0"
+    "bem-jsd": "1.4.0",
+    "jsdtmd": "0.0.7"
   },
   "devDependencies": {
     "enb": ">= 0.12.0",
