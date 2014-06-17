@@ -23,7 +23,7 @@
     "enb": ">= 0.12.0"
   },
   "dependencies": {
-    "enb-bem-sets": "0.3.8",
+    "enb-bem-sets": "0.3.10",
     "vow": "0.4.4",
     "bem-naming": "0.0.3",
     "extend-object": "1.0.0",
