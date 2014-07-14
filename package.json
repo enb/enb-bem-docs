@@ -24,18 +24,18 @@
   },
   "dependencies": {
     "enb-bem-sets": "0.3.13",
-    "vow": "0.4.4",
-    "bem-naming": "0.0.3",
+    "vow": "0.4.5",
+    "bem-naming": "0.1.0",
     "extend-object": "1.0.0",
     "marked": "0.3.2",
     "shmakowiki": "0.4.0",
-    "bem-jsd": "1.4.0",
+    "bem-jsd": "1.5.0",
     "jsdtmd": "0.0.7"
   },
   "devDependencies": {
     "enb": ">= 0.12.0",
     "enb-validate-code": "0.0.1",
-    "jshint": "2.5.1",
+    "jshint": "2.5.2",
     "jscs": "1.4.5"
   },
   "main": "lib/index.js",
