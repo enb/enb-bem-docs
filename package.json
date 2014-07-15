@@ -29,7 +29,7 @@
     "extend-object": "1.0.0",
     "marked": "0.3.2",
     "shmakowiki": "0.4.0",
-    "bem-jsd": "1.5.2",
+    "bem-jsd": "1.5.3",
     "jsdtmd": "0.0.7"
   },
   "devDependencies": {
