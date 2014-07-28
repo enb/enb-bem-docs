@@ -7,12 +7,12 @@ module.exports = function (config) {
 
     config.setLanguages(['en']);
 
-    docs.build({
+    docs.configure({
         destPath: 'desktop.docs',
         levels: getDesktopLevels(config)
     });
 
-    docs.build({
+    docs.configure({
         destPath: 'touch.docs',
         levels: getTouchLevels(config)
     });

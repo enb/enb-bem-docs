@@ -7,7 +7,7 @@ module.exports = function (config) {
 
     config.setLanguages(['en', 'ru']);
 
-    docs.build({
+    docs.configure({
         destPath: 'docs',
         levels: getLevels(config)
     });
