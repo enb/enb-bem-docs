@@ -5,11 +5,10 @@ var docSets = require(rootPath);
 module.exports = function (config) {
     var docs = docSets.create('docs', config);
 
-    config.setLanguages(['en', 'ru']);
-
     docs.configure({
         destPath: 'docs',
-        levels: getLevels(config)
+        levels: getLevels(config),
+        langs: ['en', 'ru']
     });
 };
 
