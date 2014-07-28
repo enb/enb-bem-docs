@@ -5,8 +5,6 @@ var docSets = require(rootPath);
 module.exports = function (config) {
     var docs = docSets.create('docs', config);
 
-    config.setLanguages(['en']);
-
     docs.configure({
         destPath: 'desktop.docs',
         levels: getDesktopLevels(config)
