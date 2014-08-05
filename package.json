@@ -3,12 +3,12 @@
   "name": "enb-bem-docs",
   "version": "0.2.7",
   "description": "BEM docs for ENB",
-  "repository": "git://github.com/andrewblond/enb-bem-docs",
-  "homepage": "https://github.com/andrewblond/enb-bem-docs",
-  "bugs": "https://github.com/andrewblond/enb-bem-docs/issues",
+  "repository": "git://github.com/enb-bem/enb-bem-docs",
+  "homepage": "https://github.com/enb-bem/enb-bem-docs",
+  "bugs": "https://github.com/enb-bem/enb-bem-docs/issues",
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/andrewblond/enb-bem-docs/blob/master/LICENSE"
+    "url": "https://github.com/enb-bem/enb-bem-docs/blob/master/LICENSE"
   }],
   "contributors": [
     {
