@@ -1,9 +1,10 @@
 var path = require('path');
 var rootPath = path.join(__dirname, '..', '..', '..');
-var docSets = require(rootPath);
 
 module.exports = function (config) {
-    var docs = docSets.create('docs', config);
+    config.includeConfig(rootPath);
+
+    var docs = config.module('enb-bem-docs').createConfigurator('docs');
 
     docs.configure({
         destPath: 'desktop.docs',
