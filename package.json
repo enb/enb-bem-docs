@@ -35,6 +35,7 @@
   },
   "devDependencies": {
     "enb-magic-factory": ">= 0.1.x",
+    "enb-bem-examples": "0.4.2",
     "enb-validate-code": "0.0.1",
     "jshint": "2.5.2",
     "jscs": "1.4.5"
