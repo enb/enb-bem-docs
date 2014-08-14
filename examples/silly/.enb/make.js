@@ -7,7 +7,7 @@ module.exports = function (config) {
     var docs = config.module('enb-bem-docs').createConfigurator('docs');
 
     docs.configure({
-        destPath: 'docs',
+        destPath: 'set.docs',
         levels: getLevels(config)
     });
 };

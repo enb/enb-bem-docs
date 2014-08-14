@@ -3,13 +3,21 @@ var rootPath = path.join(__dirname, '..', '..', '..');
 
 module.exports = function (config) {
     config.includeConfig(rootPath);
+    config.includeConfig('enb-bem-examples');
 
-    var docs = config.module('enb-bem-docs').createConfigurator('docs');
+    var examples = config.module('enb-bem-examples').createConfigurator('examples');
+    var docs = config.module('enb-bem-docs').createConfigurator('docs', 'examples');
+
+    examples.configure({
+        destPath: 'set.examples',
+        levels: getLevels(config),
+        inlineBemjson: true
+    });
 
     docs.configure({
         destPath: 'set.docs',
         levels: getLevels(config),
-        langs: ['ru', 'en']
+        exampleSets: ['set.examples']
     });
 };
 
