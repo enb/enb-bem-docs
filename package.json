@@ -20,13 +20,13 @@
     "node": ">= 0.10.0"
   },
   "peerDependencies": {
-    "enb-magic-factory": ">= 0.1.x"
+    "enb-magic-factory": "0.1.x"
   },
   "dependencies": {
     "enb-bem": "0.1.0-alpha2",
-    "enb-bem-pseudo-levels": "0.2.0",
+    "enb-bem-pseudo-levels": "0.2.2",
     "vow": "0.4.5",
-    "bem-naming": "0.1.0",
+    "bem-naming": "0.2.1",
     "extend-object": "1.0.0",
     "marked": "0.3.2",
     "shmakowiki": "0.4.0",
@@ -34,10 +34,10 @@
     "jsdtmd": "0.0.8"
   },
   "devDependencies": {
-    "enb-magic-factory": ">= 0.1.x",
+    "enb-magic-factory": "0.1.x",
     "enb-bem-examples": "0.4.2",
     "enb-validate-code": "0.0.1",
-    "jshint": "2.5.2",
+    "jshint": "2.5.3",
     "jscs": "1.4.5"
   },
   "main": "lib/index.js",
