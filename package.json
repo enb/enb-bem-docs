@@ -37,8 +37,8 @@
   },
   "devDependencies": {
     "enb-magic-factory": "0.2.x",
-    "enb-bem-examples": "0.4.7",
-    "jshint": "2.5.4",
+    "enb-bem-examples": "0.4.9",
+    "jshint": "2.5.5",
     "jscs": "1.5.9"
   },
   "main": "lib/index.js",
