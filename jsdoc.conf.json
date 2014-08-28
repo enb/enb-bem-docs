@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "../jsdoc-bem/plugins/bem",
+        "plugins/markdown"
+    ],
+
+    "markdown": {
+        "parser": "gfm"
+    }
+}
