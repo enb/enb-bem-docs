@@ -31,7 +31,9 @@
     "marked": "0.3.2",
     "shmakowiki": "0.4.0",
     "bem-jsd": "1.5.3",
-    "jsdtmd": "0.0.8"
+    "jsdtmd": "0.0.8",
+    "jsdoc": "3.3.0-alpha9",
+    "jsdoc-bem": "0.2.1"
   },
   "devDependencies": {
     "enb-magic-factory": "0.2.x",
