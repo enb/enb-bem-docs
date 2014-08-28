@@ -8,7 +8,8 @@ module.exports = function (config) {
 
     docs.configure({
         destPath: 'set.docs',
-        levels: getLevels(config)
+        levels: getLevels(config),
+        jsSuffixes: ['vanilla.js', 'browser.js', 'js']
     });
 };
 
