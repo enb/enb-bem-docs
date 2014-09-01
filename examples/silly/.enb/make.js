@@ -1,5 +1,5 @@
-var path = require('path');
-var rootPath = path.join(__dirname, '..', '..', '..');
+var path = require('path'),
+    rootPath = path.join(__dirname, '..', '..', '..');
 
 module.exports = function (config) {
     config.includeConfig(rootPath);
@@ -9,7 +9,7 @@ module.exports = function (config) {
     docs.configure({
         destPath: 'set.docs',
         levels: getLevels(config),
-        jsSuffixes: ['vanilla.js', 'browser.js', 'js']
+        jsdoc: { suffixes: ['vanilla.js', 'browser.js', 'js'] }
     });
 };
 

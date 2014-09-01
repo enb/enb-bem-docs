@@ -1,12 +1,12 @@
-var path = require('path');
-var rootPath = path.join(__dirname, '..', '..', '..');
+var path = require('path'),
+    rootPath = path.join(__dirname, '..', '..', '..');
 
 module.exports = function (config) {
     config.includeConfig(rootPath);
     config.includeConfig('enb-bem-examples');
 
-    var examples = config.module('enb-bem-examples').createConfigurator('examples');
-    var docs = config.module('enb-bem-docs').createConfigurator('docs', 'examples');
+    var examples = config.module('enb-bem-examples').createConfigurator('examples'),
+        docs = config.module('enb-bem-docs').createConfigurator('docs', 'examples');
 
     examples.configure({
         destPath: 'set.examples',

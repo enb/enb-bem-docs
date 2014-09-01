@@ -1,5 +1,5 @@
-var path = require('path');
-var rootPath = path.join(__dirname, '..', '..', '..');
+var path = require('path'),
+    rootPath = path.join(__dirname, '..', '..', '..');
 
 module.exports = function (config) {
     config.includeConfig(rootPath);
