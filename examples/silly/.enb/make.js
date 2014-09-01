@@ -8,15 +8,7 @@ module.exports = function (config) {
 
     docs.configure({
         destPath: 'set.docs',
-        levels: getLevels(config),
+        levels: ['blocks'],
         jsdoc: { suffixes: ['vanilla.js', 'browser.js', 'js'] }
     });
 };
-
-function getLevels(config) {
-    return [
-        'blocks'
-    ].map(function (level) {
-        return config.resolvePath(level);
-    });
-}

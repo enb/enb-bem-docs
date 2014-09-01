@@ -1,5 +1,6 @@
 var path = require('path'),
-    rootPath = path.join(__dirname, '..', '..', '..');
+    rootPath = path.join(__dirname, '..', '..', '..'),
+    levels = ['blocks'];
 
 module.exports = function (config) {
     config.includeConfig(rootPath);
@@ -10,21 +11,13 @@ module.exports = function (config) {
 
     examples.configure({
         destPath: 'set.examples',
-        levels: getLevels(config),
+        levels: levels,
         inlineBemjson: true
     });
 
     docs.configure({
         destPath: 'set.docs',
-        levels: getLevels(config),
+        levels: levels,
         exampleSets: ['set.examples']
     });
 };
-
-function getLevels(config) {
-    return [
-        'blocks'
-    ].map(function (level) {
-        return config.resolvePath(level);
-    });
-}
