@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
-    "enb-magic-factory": "0.2.x"
+    "enb-magic-factory": ">= 0.3.0 < 1.0.0"
   },
   "dependencies": {
     "enb-bem-techs": "0.1.0-beta12",
@@ -46,8 +46,8 @@
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
-    "enb-magic-factory": "0.2.x",
-    "enb-bem-examples": "0.4.12",
+    "enb-magic-factory": ">= 0.3.0 < 1.0.0",
+    "enb-bem-examples": "0.5.0",
     "jshint": "2.5.6",
     "jscs": "1.6.2"
   },
