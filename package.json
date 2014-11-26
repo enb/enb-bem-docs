@@ -1,7 +1,7 @@
 {
   "author": "Andrew Abramov <andrewblond@yandex.com>",
   "name": "enb-bem-docs",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "description": "BEM docs for ENB",
   "repository": "git://github.com/enb-bem/enb-bem-docs",
   "homepage": "https://github.com/enb-bem/enb-bem-docs",
