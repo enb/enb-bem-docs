@@ -1,3 +1,4 @@
 node_modules
 examples/*/.enb/tmp
+examples/*/*examples
 examples/*/*docs
