@@ -29,8 +29,10 @@
     "jsdoc-bem": "0.2.1",
     "jsdtmd": "0.0.8",
     "marked": "0.3.2",
+    "toc-md": "0.0.1-alpha5",
     "shmakowiki": "0.4.0",
-    "vow": "0.4.7"
+    "vow": "0.4.7",
+    "vow-node": "0.2.1"
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
