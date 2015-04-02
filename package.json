@@ -20,7 +20,7 @@
     "enb-magic-factory": ">= 0.3.0 < 1.0.0"
   },
   "dependencies": {
-    "bem-md-renderer": "0.1.0",
+    "bem-md-renderer": "0.2.0",
     "bem-jsd": "1.5.3",
     "bem-naming": "0.5.1",
     "enb-bem-pseudo-levels": "0.2.6",
