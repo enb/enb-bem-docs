@@ -1,6 +1,12 @@
 История изменений
 =================
 
+0.7.5
+-----
+
+* Модуль `bem-md-renderer@0.1.0` обновлён до версии `0.2.0`: поддержка видео-ссылок ([#38]).
+* Модуль `vow@0.4.9` обновлён до версии `0.4.9`.
+
 0.7.4
 -----
 
@@ -114,6 +120,7 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
+[#38]: https://github.com/enb-bem/enb-bem-docs/issues/38
 [#35]: https://github.com/enb-bem/enb-bem-docs/issues/35
 [#33]: https://github.com/enb-bem/enb-bem-docs/issues/33
 [#31]: https://github.com/enb-bem/enb-bem-docs/issues/31
