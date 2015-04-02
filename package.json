@@ -32,14 +32,14 @@
     "marked": "0.3.3",
     "toc-md": "0.1.0",
     "shmakowiki": "0.4.0",
-    "vow": "0.4.8",
+    "vow": "0.4.9",
     "vow-node": "0.2.1"
   },
   "devDependencies": {
     "enb": ">= 0.13.0 < 1.0.0",
     "enb-bem-examples": "0.5.9",
     "enb-magic-factory": ">= 0.3.0 < 1.0.0",
-    "jscs": "1.11.3",
+    "jscs": "1.12.0",
     "jshint": "2.6.3"
   },
   "main": "lib/index.js",
