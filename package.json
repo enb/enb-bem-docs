@@ -45,7 +45,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run lint",
-    "lint": "jshint . && jscs -c .jscs.js .",
+    "lint": "jshint . && jscs .",
     "build": "enb -d examples/silly make __magic__ set.docs && enb -d examples/langs make __magic__ set.docs && enb -d examples/examples make __magic__ set.docs && enb -d examples/jsdoc3 make __magic__ set.docs",
     "clean": "rm -rf examples/*/set.* && rm -rf examples/*/.enb/tmp"
   }
