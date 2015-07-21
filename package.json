@@ -20,9 +20,10 @@
     "enb-magic-factory": ">= 0.3.0 < 1.0.0"
   },
   "dependencies": {
-    "bem-md-renderer": "0.2.0",
     "bem-jsd": "1.6.0",
+    "bem-md-renderer": "0.2.0",
     "bem-naming": "0.5.1",
+    "bemjson-to-deps": "1.0.0",
     "enb-bem-pseudo-levels": "0.2.6",
     "enb-bem-techs": "1.0.4",
     "inherit": "2.2.2",
@@ -30,8 +31,8 @@
     "jsdoc-bem": "0.2.1",
     "jsdtmd": "0.0.9",
     "marked": "0.3.3",
-    "toc-md": "0.1.0",
     "shmakowiki": "0.4.0",
+    "toc-md": "0.1.0",
     "vow": "0.4.10",
     "vow-node": "0.3.0"
   },
