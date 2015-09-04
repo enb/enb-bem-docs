@@ -1,6 +1,17 @@
 История изменений
 =================
 
+0.9.1
+-----
+
+### Исправления ошибок
+
+* Исправлена ошибка при анализе BEMJSON-файлов ([#55]).
+
+### Зависимости
+
+* Модуль `bem-md-renderer@0.2.0` обновлён до версии `0.3.0`.
+
 0.9.0
 -----
 
@@ -153,6 +164,7 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
+[#55]: https://github.com/enb-bem/enb-bem-docs/issues/55
 [#46]: https://github.com/enb-bem/enb-bem-docs/issues/46
 [#45]: https://github.com/enb-bem/enb-bem-docs/pull/45
 [#43]: https://github.com/enb-bem/enb-bem-docs/issues/43
