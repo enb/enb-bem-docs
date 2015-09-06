@@ -1,6 +1,11 @@
 История изменений
 =================
 
+0.10.0
+------
+
+* Добавлена поддержка примеров из разных magic-тасков ([#57]).
+
 0.9.1
 -----
 
@@ -164,6 +169,7 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
+[#57]: https://github.com/enb-bem/enb-bem-docs/issues/57
 [#55]: https://github.com/enb-bem/enb-bem-docs/issues/55
 [#46]: https://github.com/enb-bem/enb-bem-docs/issues/46
 [#45]: https://github.com/enb-bem/enb-bem-docs/pull/45
