@@ -33,6 +33,7 @@
     "jsdtmd": "0.0.9",
     "marked": "0.3.5",
     "shmakowiki": "0.4.0",
+    "strip-comments": "0.3.2",
     "toc-md": "0.1.0",
     "vow": "0.4.10",
     "vow-node": "0.3.0"
