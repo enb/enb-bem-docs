@@ -1,6 +1,21 @@
 История изменений
 =================
 
+0.10.1
+------
+
+### Исправления ошибок
+
+* При ошибках чтения JSDoc с помощью `jsdoc3` теперь выводятся предупреждения ([#60]).
+* Исправлено добавление информации о примерах при ошибках чтения BEMJSON ([#62]).
+* Исправлено чтение BEMJSON при поиске зависимостей примеров ([#63]).
+
+### Зависимости
+
+* Для очистки кэша вместо устаревшего `drop-require-cache` используется модуль `clear-require`.
+* Модуль `jsdoc@3.3.2` обновлён до версии `3.3.3`.
+* Модуль `vow@0.4.10` обновлён до версии `0.4.11`.
+
 0.10.0
 ------
 
@@ -169,6 +184,9 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
+[#63]: https://github.com/enb-bem/enb-bem-docs/issues/63
+[#62]: https://github.com/enb-bem/enb-bem-docs/issues/62
+[#60]: https://github.com/enb-bem/enb-bem-docs/pull/60
 [#57]: https://github.com/enb-bem/enb-bem-docs/issues/57
 [#55]: https://github.com/enb-bem/enb-bem-docs/issues/55
 [#46]: https://github.com/enb-bem/enb-bem-docs/issues/46
