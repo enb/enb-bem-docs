@@ -28,14 +28,14 @@
     "enb-bem-pseudo-levels": "0.2.6",
     "enb-bem-techs": "2.0.1",
     "inherit": "2.2.2",
-    "jsdoc": "3.3.2",
+    "jsdoc": "3.3.3",
     "jsdoc-bem": "0.3.0",
     "jsdtmd": "0.0.9",
     "marked": "0.3.5",
     "shmakowiki": "0.4.0",
     "strip-comments": "0.3.2",
     "toc-md": "0.1.0",
-    "vow": "0.4.10",
+    "vow": "0.4.11",
     "vow-node": "0.3.0"
   },
   "devDependencies": {
