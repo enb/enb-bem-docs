@@ -16,7 +16,7 @@
     "node": ">= 0.10.0"
   },
   "peerDependencies": {
-    "enb": ">= 0.13.0 < 1.0.0",
+    "enb": ">= 0.15.0 < 2.0.0",
     "enb-magic-factory": ">= 0.3.0 < 1.0.0"
   },
   "dependencies": {
@@ -25,8 +25,9 @@
     "bem-naming": "0.5.1",
     "bemjson-to-deps": "1.1.0",
     "clear-require": "1.0.1",
-    "enb-bem-pseudo-levels": "0.2.6",
-    "enb-bem-techs": "2.0.1",
+    "enb-async-require": "1.0.1",
+    "enb-bem-pseudo-levels": "0.3.0",
+    "enb-bem-techs": "2.1.0",
     "inherit": "2.2.2",
     "jsdoc": "3.3.3",
     "jsdoc-bem": "0.3.0",
@@ -39,8 +40,8 @@
     "vow-node": "0.3.0"
   },
   "devDependencies": {
-    "enb": ">= 0.13.0 < 1.0.0",
-    "enb-bem-examples": "0.5.10",
+    "enb": ">= 0.15.0 < 2.0.0",
+    "enb-bem-examples": "0.6.0",
     "enb-magic-factory": ">= 0.3.0 < 1.0.0",
     "jscs": "1.13.1",
     "jshint": "2.8.0"
