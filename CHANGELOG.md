@@ -1,6 +1,11 @@
 История изменений
 =================
 
+0.11.0
+------
+
+* Добавлена поддержка `enb` версии `1.x` ([#67]).
+
 0.10.1
 ------
 
@@ -184,6 +189,7 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
+[#67]: https://github.com/enb-bem/enb-bem-docs/pull/67
 [#63]: https://github.com/enb-bem/enb-bem-docs/issues/63
 [#62]: https://github.com/enb-bem/enb-bem-docs/issues/62
 [#60]: https://github.com/enb-bem/enb-bem-docs/pull/60
