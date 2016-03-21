@@ -189,24 +189,24 @@
 * Добавлена опция `jsSuffixes` ([#7]).
 * Добавлен обработчик `jsd` ошибок ([#4]).
 
-[#67]: https://github.com/enb-bem/enb-bem-docs/pull/67
-[#63]: https://github.com/enb-bem/enb-bem-docs/issues/63
-[#62]: https://github.com/enb-bem/enb-bem-docs/issues/62
-[#60]: https://github.com/enb-bem/enb-bem-docs/pull/60
-[#57]: https://github.com/enb-bem/enb-bem-docs/issues/57
-[#55]: https://github.com/enb-bem/enb-bem-docs/issues/55
-[#46]: https://github.com/enb-bem/enb-bem-docs/issues/46
-[#45]: https://github.com/enb-bem/enb-bem-docs/pull/45
-[#43]: https://github.com/enb-bem/enb-bem-docs/issues/43
-[#41]: https://github.com/enb-bem/enb-bem-docs/issues/41
-[#38]: https://github.com/enb-bem/enb-bem-docs/issues/38
-[#35]: https://github.com/enb-bem/enb-bem-docs/issues/35
-[#33]: https://github.com/enb-bem/enb-bem-docs/issues/33
-[#31]: https://github.com/enb-bem/enb-bem-docs/issues/31
-[#27]: https://github.com/enb-bem/enb-bem-docs/issues/27
-[#25]: https://github.com/enb-bem/enb-bem-docs/issues/25
-[#17]: https://github.com/enb-bem/enb-bem-docs/issues/17
-[#9]: https://github.com/enb-bem/enb-bem-docs/issues/9
-[#7]: https://github.com/enb-bem/enb-bem-docs/issues/7
-[#4]: https://github.com/enb-bem/enb-bem-docs/issues/4
-[#2]: https://github.com/enb-bem/enb-bem-docs/issues/2
+[#67]: https://github.com/enb/enb-bem-docs/pull/67
+[#63]: https://github.com/enb/enb-bem-docs/issues/63
+[#62]: https://github.com/enb/enb-bem-docs/issues/62
+[#60]: https://github.com/enb/enb-bem-docs/pull/60
+[#57]: https://github.com/enb/enb-bem-docs/issues/57
+[#55]: https://github.com/enb/enb-bem-docs/issues/55
+[#46]: https://github.com/enb/enb-bem-docs/issues/46
+[#45]: https://github.com/enb/enb-bem-docs/pull/45
+[#43]: https://github.com/enb/enb-bem-docs/issues/43
+[#41]: https://github.com/enb/enb-bem-docs/issues/41
+[#38]: https://github.com/enb/enb-bem-docs/issues/38
+[#35]: https://github.com/enb/enb-bem-docs/issues/35
+[#33]: https://github.com/enb/enb-bem-docs/issues/33
+[#31]: https://github.com/enb/enb-bem-docs/issues/31
+[#27]: https://github.com/enb/enb-bem-docs/issues/27
+[#25]: https://github.com/enb/enb-bem-docs/issues/25
+[#17]: https://github.com/enb/enb-bem-docs/issues/17
+[#9]: https://github.com/enb/enb-bem-docs/issues/9
+[#7]: https://github.com/enb/enb-bem-docs/issues/7
+[#4]: https://github.com/enb/enb-bem-docs/issues/4
+[#2]: https://github.com/enb/enb-bem-docs/issues/2
