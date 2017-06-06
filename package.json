@@ -13,7 +13,7 @@
     }
   ],
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 4"
   },
   "peerDependencies": {
     "enb": ">= 0.15.0 < 2.0.0",
@@ -30,9 +30,8 @@
     "enb-bem-techs": "2.1.0",
     "inherit": "2.2.2",
     "jsdoc": "3.3.3",
-    "jsdoc-bem": "0.3.0",
     "jsdtmd": "0.0.9",
-    "marked": "0.3.5",
+    "md-to-bemjson": "0.6.0",
     "shmakowiki": "0.4.0",
     "strip-comments": "0.3.2",
     "toc-md": "0.1.0",
