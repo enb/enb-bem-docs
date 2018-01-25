@@ -30,6 +30,7 @@
     "enb-bem-techs": "2.1.0",
     "inherit": "2.2.2",
     "jsdoc": "3.3.3",
+    "jsdoc-bem": "^0.3.0",
     "jsdtmd": "0.0.9",
     "md-to-bemjson": "0.6.0",
     "shmakowiki": "0.4.0",
