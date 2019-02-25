@@ -33,7 +33,7 @@
     "jsdoc-bem": "^0.4.1",
     "jsdtmd": "0.0.9",
     "marked": "^0.3.12",
-    "md-to-bemjson": "0.6.0",
+    "md-to-bemjson": "1.0.0",
     "npm-which": "^3.0.1",
     "resolve-module-path": "0.0.6",
     "shmakowiki": "0.4.0",
